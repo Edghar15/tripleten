@@ -5,4 +5,5 @@
 Proyecto integral donde utilice las herramientas aprendidas del modulo 1.
 ## Instalación
 ```bash
-pip install -r requirements.txt
+pip install -r Proyecto del modulo 1.ipynb
+
